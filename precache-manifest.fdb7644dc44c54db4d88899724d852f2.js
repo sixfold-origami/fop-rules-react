@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36c0674625aa4e473112497c22401778",
+    "revision": "9a3af2ab7ddbf272de3262dd0f7719df",
     "url": "/fop-rules/index.html"
   },
   {
-    "revision": "da051f01be5721eb48d6",
+    "revision": "027c25ba3cc7a9b2d87b",
     "url": "/fop-rules/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fop-rules/static/js/2.5288eada.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da051f01be5721eb48d6",
-    "url": "/fop-rules/static/js/main.1b886c54.chunk.js"
+    "revision": "027c25ba3cc7a9b2d87b",
+    "url": "/fop-rules/static/js/main.bdc967c0.chunk.js"
   },
   {
     "revision": "b6686fe61ede5ac5877a",
