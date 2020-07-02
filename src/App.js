@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
 				<p>
-					This is the boilerplate for the fonts of power rules compendium
+					This is the boilerplate for the fonts of power rules compendium. More is coming soon!
 				</p>
       </header>
     </div>
